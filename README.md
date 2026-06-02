@@ -80,7 +80,7 @@ That's Memory Road — a layered Claude Memory architecture (Layers 0-12) that t
 
 Full architecture, kernel code, and the 11-layer model live at:
 
-→ **github.com/RickyPOnline/memory-road**
+→ **github.com/RickyPOnline/claude-code-memory-road**
 
 `PreCompact` is the first hook. Memory Road is what you build on top of it once you realize one hook isn't enough.
 
